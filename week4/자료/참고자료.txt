@@ -1,0 +1,35 @@
+도움이 됐던 정보들은 이 파일에 자유롭게 작성해서 공유해주시면 됩니다.
+업로드 할 때 이름 기입 해주세요.
+
+0.DP 개념 _업로드 백민희  (PPT 만들 때 참고했던 자료입니다.)
+블로그
+알고리즘 - Dynamic Programming(동적 계획법)
+https://hongjw1938.tistory.com/47
+유튜브
+(이코테 2021 강의 몰아보기) 6. 다이나믹 프로그래밍
+https://www.youtube.com/watch?v=5Lu34WIx2Us
+
+1.boj 1932 _업로드 백민희
+블로그
+1.https://blog.sungmin.dev/98   //그림 설명 좋아요
+2.https://hongjw1938.tistory.com/47  //점화식&그림
+3.https://velog.io/@wonjwi/%EB%B0%B1%EC%A4%80-1932%EB%B2%88-%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95
+
+2.boj 11727 _업로드 백민희
+블로그
+1.https://dev01.tistory.com/70
+
+3.boj 2193 _업로드 백민희
+블로그
+https://dundung.tistory.com/10
+
+4.boj 2156 _업로드 백민희
+블로그
+1.https://hees-dev.tistory.com/30
+2.https://zoonvivor.tistory.com/133
+
+5.boj 11053 _업로드 백민희
+블로그
+1.https://j-sik.tistory.com/104   //dp를 1로 다 초기화하는 이유
+2.https://wookong-lab.tistory.com/5  //if 조건 
+3.https://st-lab.tistory.com/137
