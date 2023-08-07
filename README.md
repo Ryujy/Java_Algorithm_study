@@ -2,7 +2,7 @@
 JAVA 알고리즘 스터디!
 
 ## 스터디 기간🚀
-#### 2023.05.08~ (미정)
+#### 2023.05.08~ 2023.07.24
 ##### 매주 월요일 20:00 ~ 22:00
 
 ## 진행방식💻
@@ -29,11 +29,11 @@ JAVA 알고리즘 스터디!
 | 2  | **자료구조** (스택/큐/덱/힙) :: 류지윤<br>[수업자료](https://github.com/minheebaek/Algorithm_study/blob/main/week2/%EC%9E%90%EB%A3%8C/%EC%9E%90%EB%B0%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_2%EC%A3%BC%EC%B0%A8.pdf)<br>[문제집](https://www.acmicpc.net/workbook/view/8999) |
 | 3  | **재귀함수**의 이해 & 여러 가지 **정렬** :: 백민희<br>[수업자료](https://github.com/minheebaek/Algorithm_study/blob/main/week3/%EC%9E%90%EB%A3%8C/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94_3%EC%A3%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf)<br>[문제집](https://www.acmicpc.net/workbook/view/9000)                             |
 | 4  | **다이나믹 프로그래밍 (DP)** :: 백민희<br>[수업자료](https://github.com/minheebaek/Algorithm_study/blob/main/week4/%EC%9E%90%EB%A3%8C/DP(%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)_%EC%B5%9C%EC%A2%85.pdf)<br>[문제집](https://www.acmicpc.net/workbook/view/9001)                                |
-| 5  | **그래프** 이론과 구현 (1) & **DFS와 BFS 기초** :: 백민희<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9003)                                                                                                                                                                                                               |
-| 6  | **그래프** 이론과 구현 (2) & **DFS와 BFS 응용 & 다익스트라 알고리즘** :: 류지윤<br>[수업자료]()                                                                                                                                                                                                                                                       |
-| 7  | **분할정복 & 이분탐색** :: 최지인 <br>[수업자료]()                                                                                                                                                                                                                                                                                        |
-| 8  | **그리디 알고리즘** :: 김지원 <br>[수업자료]()                                                                                                                                                                                                                                                                                           |
-| 9  | **완전탐색(Brute Force) & 시뮬레이션** :: 백민희 <br>[수업자료]()                                                                                                                                                                                                                                                                          |
+| 5  | **그래프** 이론과 구현 (1) & **DFS와 BFS 기초** :: 백민희<br>[수업자료](https://github.com/minheebaek/Algorithm_study/blob/main/week5/%EC%9E%90%EB%A3%8C/%EA%B7%B8%EB%9E%98%ED%94%84%2CDFS%2CBFS.pdf)<br>[문제집](https://www.acmicpc.net/workbook/view/9003)                                                                                                                                                                                                               |
+| 6  | **그래프** 이론과 구현 (2) & **Floyd & Dijkstra & 위상 정렬** :: 류지윤<br>[수업자료](https://github.com/minheebaek/Algorithm_study/blob/main/week6/%EC%9E%90%EB%A3%8C/week6_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.pdf)                                                                                                                                                                                                                                                       |
+| 7  | **분할정복 & 이분탐색** :: 최지인 <br>[수업자료](https://github.com/minheebaek/Algorithm_study/blob/main/week7/%EC%9E%90%EB%A3%8C/7%EC%A3%BC%EC%B0%A8%20%EC%9E%90%EB%A3%8C.pdf)                                                                                                                                                                                                                                                                                        |
+| 8  | **그리디 알고리즘** :: 김지원 <br>[수업자료](https://github.com/minheebaek/Algorithm_study/blob/main/week8/%EC%9E%90%EB%A3%8C/week8%20-%20Greedy.pptx)                                                                                                                                                                                                                                                                                           |
+| 9  | **완전탐색(Brute Force) & 시뮬레이션** :: 백민희 <br>[수업자료](https://github.com/minheebaek/Algorithm_study/blob/main/week9/%EC%9E%90%EB%A3%8C/week9%20%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98.pdf)                                                                                                                                                                                                                                                                          |
 
 ## 발표 문제🏆
 
@@ -71,6 +71,7 @@ JAVA 알고리즘 스터디!
 	- 매주 일요일에 만원 보증금을 걸고 새 챌린지에 가입합니다. 
   
 - 4주간격으로 인원 정리 및 충원을 하고 1주 쉽니다. 
+- 스터디장은 원활한 진행을 위해 진도가 1주 빠릅니다.
 
 - 문제 풀이 발표 시간에는 
 	- (1) 문제 번호
